@@ -16,4 +16,4 @@ COPY . .
 USER 1001
 
 EXPOSE 8080
-CMD [ "node", "try.js" ]
+CMD [ "node", "helloexpress.js" ]
